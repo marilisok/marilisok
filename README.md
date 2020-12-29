@@ -5,8 +5,8 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
--🌱 I’m currently learning Angular, Django
--👯 I’m looking to collaborate on Web Projects
+- 🌱 I’m currently learning Angular, Django
+- 👯 I’m looking to collaborate on Web Projects
 <!-- 
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
