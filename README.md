@@ -2,7 +2,7 @@
 
 
 
-- 🌱 I’m currently learning Angular, Django
+- 🌱 I’m currently learning React, Redux/Mobx, Node.js
 - 👯 I’m looking to collaborate on Web Projects
 
 ### My programming stats
